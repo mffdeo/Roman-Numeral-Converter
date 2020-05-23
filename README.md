@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="https://github.com/mffdeo/Roman-Numeral-Converter/blob/master/freeCodeCamp.png" width="30%">
+</p>
 <img src="https://github.com/mffdeo/Roman-Numeral-Converter/blob/master/decimalToRoman.gif" width="100%">
 
 # Roman-Numeral-Converter
