@@ -1,3 +1,5 @@
+<img src="https://github.com/mffdeo/Roman-Numeral-Converter/blob/master/decimalToRoman.gif" width="100%">
+
 # Roman-Numeral-Converter
 
 [![Author](https://img.shields.io/badge/author-mffdeo-brightgreen)](https://github.com/mffdeo)
